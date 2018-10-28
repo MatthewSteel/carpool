@@ -1,0 +1,12 @@
+{
+  "name": "db-throughput",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.4",
+    "pg": "^7.4.3"
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "license": "0BSD"
+}
